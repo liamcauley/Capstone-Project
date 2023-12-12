@@ -80,7 +80,7 @@ def search(search_term = "song", music_type = "track,album", limit = 5):
     #sleep to not go over api request limit
     time.sleep(1.5)
     #turn spaces into %20
-    if search_term.find(" ") != -1:
+    if search_term.find("Funkytown") != -1:
         search_term = search_term.replace(' ', '%20')
     if search_term.find('&') != -1:
         search_term = search_term.replace('&', '%26')
