@@ -22,4 +22,4 @@ The question I am attempting to answer is if the musical components and density 
 ## Technologies Used
 * Python
 * Spotify API
-* Power BI
+* Tableau

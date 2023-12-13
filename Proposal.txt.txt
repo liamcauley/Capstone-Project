@@ -14,7 +14,7 @@ Data Question
 -How have the musical components of  “one hit wonders” changed over time? Has the density per year changed?
 
 Minimum Viable Product (MVP) 
--I plan on creating a dashboard on Power BI to show my findings. I will primarily use interactive graphs in order to most effectively 
+-I plan on creating a dashboard on Tableau to show my findings. I will primarily use interactive graphs in order to most effectively 
 present the data. The intended audience are musicians and music fans in general.
 
 Schedule (through <date of demo day>) 
