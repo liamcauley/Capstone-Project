@@ -1,0 +1,11 @@
+,index,date,song,artist,peak-rank,weeks-on-board,release_year,track_id,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,id,duration_m
+0,1,1997,Macarena (Bayside Boys Mix),Los Del Rio,1,60,1997,0a3SUpxyMCdPy6mrFH4YJF,0.766,0.74,C#,-8.581,1,0.0417,0.0185,0.695,0.0576,0.902,112.979,0a3SUpxyMCdPy6mrFH4YJF,3.41
+1,0,1998,How Do I Live,LeAnn Rimes,2,69,1998,7BD50ATrF3Vab5FQy7vtK8,0.577,0.462,D,-7.989,1,0.0279,0.128,0.0,0.0822,0.258,128.303,7BD50ATrF3Vab5FQy7vtK8,4.45
+2,11,1997,Return Of The Mack,Mark Morrison,2,40,1997,3jDdpx9PMlfMBS5tOBHFm9,0.715,0.833,D,-5.379,1,0.108,0.00631,0.0,0.164,0.612,95.487,3jDdpx9PMlfMBS5tOBHFm9,3.55
+3,5,1994,Whoomp! (There It Is),Tag Team,2,45,1994,3oWXoSkjdbTlQlteizN7Hb,0.798,0.639,E,-7.391,0,0.0424,0.00141,0.0,0.0836,0.421,129.443,3oWXoSkjdbTlQlteizN7Hb,3.75
+4,9,1997,I Love You Always Forever,Donna Lewis,2,41,1997,1PEqh7awkpuepLBSq8ZwqD,0.744,0.453,F,-11.977,1,0.0348,0.627,0.421,0.0898,0.122,103.773,1PEqh7awkpuepLBSq8ZwqD,4.0
+5,2,1996,Missing,Everything But The Girl,2,55,1996,1Qrdlkgg9I4J7r3P4kZNwr,0.552,0.552,B,-9.736,0,0.0364,0.052,0.0,0.046,0.593,208.571,1Qrdlkgg9I4J7r3P4kZNwr,4.5
+6,4,1996,Nobody Knows,The Tony Rich Project,2,47,1996,7A0FGrZsLgOUmeNtMTnt4z,0.634,0.382,A,-12.877,1,0.0363,0.759,0.0021,0.101,0.2,81.971,7A0FGrZsLgOUmeNtMTnt4z,3.14
+7,7,1996,C'mon N' Ride It (The Train),Quad City DJ's,3,42,1996,0R2wAvZXgAUJpZ93BEE8og,0.801,0.755,B,-5.17,1,0.0326,0.0536,0.0,0.0471,0.919,140.01,0R2wAvZXgAUJpZ93BEE8og,4.61
+8,16,1995,I Know,Dionne Farris,4,38,1995,6wsqVwoiVH2kde4k4KKAFU,0.927,0.619,F,-4.441,0,0.0539,0.0186,0.0,0.104,0.817,117.995,6wsqVwoiVH2kde4k4KKAFU,3.53
+9,19,1993,Don't Walk Away,Jade,4,35,1993,7n6Zwr9JmTKQ6XjjYOjdLF,0.516,0.448,A#,-11.403,0,0.313,0.721,0.0,0.122,0.494,89.682,7n6Zwr9JmTKQ6XjjYOjdLF,6.41
