@@ -11,13 +11,13 @@ The question I am attempting to answer is if the musical components and density 
 > The most important document in my repository is SpotifyAPI.py which I used to have pre-coded functions that can send access requests directly to the API in order to retrieve important song information
 
 ### SpotifyAPI.py
-> SpotifyAPI.py is a custom module I wrote to help me interact with Spotify's API service. It includes functions that interact with each endpoint and return the response from that endpoint. This is a usable module for anyone interested in playing with the SpotifyAPI, all you would need to do is substitute in your API key into the get_token() function. 
+> SpotifyAPI.py is a module I constructed to help me retrieve data from Spotify's API service. It includes functions that interact with each endpoint and return the response from that endpoint. This is a usable module for anyone interested using Spotify API, all you would need to do is substitute in your API key into the get_token() function. 
 
 ### difficulties
 > Many aspects of this project brought difficulties, such as what parameters I wanted to set in order to get an accurate dataset together. Constructing the SpotifyAPI to find song information automatically was a massive hurdle that has occupied a large amount of time spent on gathering data.
 
 ## Results
-> to be determined
+> Popular music has obviously changed over time, with the anomally of a one hit wonder changing with it. The primary change came in the form of how often a one hit wonder occurs and how long these songs stay on the billboard hot 100. One hit wonders have decreased significantly and stayed on the charts for an increasingly long amount of time. As far as audio features go, loudness, energy and danceability have all increased over time. Instrumentalness and Acousticness have decreased over time.
 
 ## Technologies Used
 * Python
