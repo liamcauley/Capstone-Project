@@ -21,5 +21,6 @@ The question I am attempting to answer is if the musical components and density 
 
 ## Technologies Used
 * Python
+* Jupyter Notebook
 * Spotify API
 * Tableau
