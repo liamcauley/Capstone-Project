@@ -17,7 +17,7 @@ The question I am attempting to answer is if the musical components and density 
 > Many aspects of this project brought difficulties, such as what parameters I wanted to set in order to get an accurate dataset together. Constructing the SpotifyAPI to find song information automatically was a massive hurdle that has occupied a large amount of time spent on gathering data.
 
 ## Results
-> Popular music has obviously changed over time, with the anomally of a one hit wonder changing with it. The primary change came in the form of how often a one hit wonder occurs and how long these songs stay on the billboard hot 100. One hit wonders have decreased significantly and stayed on the charts for an increasingly long amount of time. As far as audio features go, loudness, energy and danceability have all increased over time. Instrumentalness and Acousticness have decreased over time.
+> Popular music has obviously changed over time, with the anomally of a one hit wonder changing with it. The primary change came in the form of how often a one hit wonder occurs and how long these songs stay on the billboard hot 100. One hit wonders have decreased significantly and stayed on the charts for an increasingly long amount of time. As far as audio features go, loudness, energy and danceability have all increased over time. Instrumentalness and Acousticness have decreased over time. One of the most interesting things I found in my analysis is that the chords of the most popular "one hit wonder" songs of each decade remained consistent and the valence (emotion) of these songs also remained similar throughout the decades. Although genres, culture and technology has changed over time, the roots of the music have remained consistent.
 
 ## Technologies Used
 * Python
